@@ -5,7 +5,14 @@
 
 
 int main(){
-	printf("FirstCode Commit...\n");
+	
+
+
+	printf("aaaaaaaaaaaa..\n");
+	
+
+
+
 	while(1)
 		printf("dddd...\n");
 	return 0;
