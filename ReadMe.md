@@ -57,3 +57,35 @@
   * 江苏
 * 意大利
 
+编号|游戏名称|销量|价格
+---|:--:|:--:|---:
+1|饥荒|100000|10$
+2|你画我猜|50000|10.5$
+3|DNF|8000000|500$
+
+```printf("hello");```
+
+(```)
+	function(){
+		printf("HI");
+	}
+	function();
+(```)
+
+```c
+	#include<stdio.h>
+	int main(){
+		printf("test Hello");
+		return 0;
+	}
+```
+
+```python
+	import os;
+```
+
+```bash
+	echo "执行回显命令"
+```
+
+
